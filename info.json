@@ -1,0 +1,18 @@
+{
+  "DomainList": [
+    {
+      "Name": "fteamx.com",
+      "DisableArea": "GD|JS"
+    },
+    {
+      "Name": "wto9.com",
+      "DisableArea": ""
+    }
+  ],
+  "IPList": [
+    {
+      "Name": "35.200.52.89",
+      "DisableArea": "GD|JS"
+    }
+  ]
+}
